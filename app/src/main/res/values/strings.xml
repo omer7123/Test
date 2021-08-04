@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="main_four">4</string>
+    <string name="main_five">5</string>
+    <string name="main_six">6</string>
+    <string name="main_minus">-</string>
+    <string name="main_clear">AC</string>
+    <string name="main_umno_del">*/-</string>
+    <string name="percent">%</string>
+    <string name="main_delenie">/</string>
+    <string name="main_seven">7</string>
+    <string name="main_eight">8</string>
+    <string name="main_nine">9</string>
+    <string name="main_umno">x</string>
+    <string name="main_one">1</string>
+    <string name="main_two">2</string>
+    <string name="main_three">3</string>
+    <string name="main_plus">+</string>
+    <string name="main_null">0</string>
+    <string name="main_dot">,</string>
+    <string name="main_equals">=</string>
+    <string name="main_share">Share result</string>
+</resources>

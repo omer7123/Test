@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:top="@dimen/margin_0"
+    android:end="@dimen/margin_0"
+    android:start="@dimen/margin_0"
+    android:bottom="@dimen/margin_0"
+    android:drawable="@color/black"/>
+
+    <item
+        android:width="@dimen/margin_300"
+        android:height="@dimen/margin_300"
+        android:drawable="@drawable/ic_caklulator"
+        android:gravity="center" />
+
+</layer-list>
